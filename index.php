@@ -1,1 +1,1 @@
-<?php header('Location: Frontend/index.php'); exit; ?> 
+<?php header('Location: Frontend/index.php'); exit; ?>
